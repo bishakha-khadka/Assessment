@@ -3,7 +3,7 @@ function count_inversion(arr) {
     let length=arr.length;
     for(let i=0;i<length;i++){
         for (let j=i+1; j<length; j++) {
-            if (arr[i]>arr[j] && i<j){
+            if (arr[i]>arr[j]){
                 count++;
             }
         }
