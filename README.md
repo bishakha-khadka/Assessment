@@ -13,7 +13,7 @@ A simple Javascript program that counts the number of inversions in an array. An
 
 ```sh
 git clone https://github.com/bishakha-khadka/Assessment
-cd assessment
+cd Assessment
 ```
 
 2. **Run the Program**
